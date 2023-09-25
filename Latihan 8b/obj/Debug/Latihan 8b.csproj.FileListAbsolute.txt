@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\bin\Debug\Latihan 8b.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\obj\Debug\Latihan 8b.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\bin\Debug\Latihan 8b.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\bin\Debug\Latihan 8b.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\obj\Debug\Latihan 8b.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\obj\Debug\Latihan 8b.pdb
+C:\Users\user\OneDrive\Dokumen\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\bin\Debug\Latihan 8b.exe.config
+C:\Users\user\OneDrive\Dokumen\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\obj\Debug\Latihan 8b.exe
+C:\Users\user\OneDrive\Dokumen\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\obj\Debug\Latihan 8b.pdb
+C:\Users\user\OneDrive\Dokumen\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\bin\Debug\Latihan 8b.exe
+C:\Users\user\OneDrive\Dokumen\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\bin\Debug\Latihan 8b.pdb
+C:\Users\user\OneDrive\Dokumen\Visual Studio 2012\Projects\Latihan 8b\Latihan 8b\obj\Debug\Latihan 8b.csprojResolveAssemblyReference.cache
